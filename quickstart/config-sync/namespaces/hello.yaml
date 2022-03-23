@@ -21,7 +21,7 @@ metadata:
 # [END anthosconfig_quickstart_namespaces_hello_namespace] 
 ---
 apiVersion: v1  
-kind: pod
+kind: Pod
 metadata:
   name: webserver
 spec:
